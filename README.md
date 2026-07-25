@@ -2,20 +2,6 @@
 
 A collection of C programming projects created while learning and practicing core programming concepts. This repository includes beginner to intermediate projects covering file handling, data structures, algorithms, and problem-solving.
 
-## 📂 Projects
-
-| Project | Description | Status |
-| 🎓 Student Record Management System | Manage student records using file handling | ✅ Completed |
-| 🏦 Bank Management System | Create accounts, deposit, withdraw, and manage transactions | 🚧 Coming Soon |
-| 📚 Library Management System | Manage books and issue/return records | 🚧 Coming Soon |
-| 🧮 Calculator | Basic arithmetic operations | 🚧 Coming Soon |
-| 🎮 Snake Game | Console-based Snake game | 🚧 Coming Soon |
-| ❌⭕ Tic-Tac-Toe | Two-player console game | 🚧 Coming Soon |
-| 🏥 Hospital Management System | Manage patient records | 🚧 Coming Soon |
-| 📦 Inventory Management System | Product and stock management | 🚧 Coming Soon |
-
----
-
 ## 🛠️ Technologies Used
 
 - C Programming Language
